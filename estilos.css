@@ -1,0 +1,15 @@
+table, th, td {
+  border: 1px solid purple;
+}
+
+p
+{border-style: ridge;}
+
+h1 {
+  border: 2px solid purple;
+}
+
+body{
+  background-color: yellow;
+  opacity: 2.0;
+}
